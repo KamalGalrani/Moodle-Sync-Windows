@@ -25,3 +25,6 @@ C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\obj\Debug\MoodleSyn
 C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.csprojResolveAssemblyReference.cache
 C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncTranslator.dll
 C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncTranslator.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe.config
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.exe
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.pdb
