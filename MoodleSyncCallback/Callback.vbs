@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run """" & Replace(WScript.ScriptFullName, WScript.ScriptName, "") & "MoodleSyncBrowser.exe""", 1, False

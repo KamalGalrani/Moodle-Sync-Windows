@@ -1,0 +1,8 @@
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe.config
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\Reporter.dll
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\Reporter.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\obj\Debug\Callback.csprojResolveAssemblyReference.cache
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.exe
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.pdb

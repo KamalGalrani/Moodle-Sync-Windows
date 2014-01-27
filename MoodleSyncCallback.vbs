@@ -1,0 +1,1 @@
+MsgBox "Moodle Sync needs to be setup before running synchronisation."  & vbCr & vbLf & "Please set it up by running Moodle Sync from start menu.",16,"Setup Files Missing!!!"

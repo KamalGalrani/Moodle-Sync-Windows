@@ -1,0 +1,5 @@
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncTranslator\bin\Debug\MoodleSyncTranslator.dll
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncTranslator\bin\Debug\MoodleSyncTranslator.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncTranslator\obj\Debug\MoodleSyncTranslator.dll
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncTranslator\obj\Debug\MoodleSyncTranslator.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncTranslator\obj\Debug\MoodleSyncTranslator.csprojResolveAssemblyReference.cache

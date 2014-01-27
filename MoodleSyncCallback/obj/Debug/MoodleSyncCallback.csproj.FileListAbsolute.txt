@@ -1,0 +1,27 @@
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync_SchTsk\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.csprojResolveAssemblyReference.cache
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync_SchTsk\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe.config
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync_SchTsk\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync_SchTsk\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.pdb
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync_SchTsk\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.exe
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync_SchTsk\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.pdb
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync_SchTsk\MoodleSyncCallback\bin\Debug\Reporter.dll
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync_SchTsk\MoodleSyncCallback\bin\Debug\Reporter.pdb
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\OUTPUT\MoodleSyncCallback.exe.config
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\OUTPUT\MoodleSyncCallback.exe
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\OUTPUT\MoodleSyncCallback.pdb
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe.config
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.pdb
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\MoodleSyncCallback\bin\Debug\Reporter.dll
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\MoodleSyncCallback\bin\Debug\Reporter.pdb
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.csprojResolveAssemblyReference.cache
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.exe
+D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe.config
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.exe
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.csprojResolveAssemblyReference.cache
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncTranslator.dll
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyncTranslator.pdb
