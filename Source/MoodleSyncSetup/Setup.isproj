@@ -36,5 +36,13 @@
 			<Name>MoodleSyncCallback</Name>
 			<Project>{C76FD033-B402-45EA-92BC-AB2418D9EEF5}</Project>
 		</ProjectReference>
+		<ProjectReference Include="..\MoodleSyncInterface\MoodleSyncInterface.csproj">
+			<Name>MoodleSyncInterface</Name>
+			<Project>{9E421F3A-F6B2-448A-85DA-05C2E6060F6B}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\MoodleSyncTranslator\MoodleSyncTranslator.csproj">
+			<Name>MoodleSyncTranslator1</Name>
+			<Project>{BE255A7E-39A2-4620-8972-767C0559D516}</Project>
+		</ProjectReference>
 	</ItemGroup>
 </Project>
