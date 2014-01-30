@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\MoodleSyncInterface\obj\Debug\
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Debug\
 MoodleSyncInterface
 none
 false
 DEBUG;TRACE
-C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\MoodleSyncInterface\App.xaml
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\App.xaml
 2332850664
 
 121945945805
-18-1637629712
+18-471448290
 MainWindow.xaml;SetupWindow.xaml;
 
 False

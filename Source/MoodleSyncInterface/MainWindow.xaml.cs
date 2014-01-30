@@ -68,7 +68,8 @@ namespace MoodleSyncInterface
             procExecuting = Process.Start(procStartInfo);
             procExecuting.WaitForExit();
         }
-        private void Tray_Icon_Click(object sender, EventArgs e)                            /////////////////Handles tray icon and context menu clicks
+        //----------Incomplete--------//
+        private void Tray_Icon_Click(object sender, EventArgs e)                            //Handles tray icon and context menu clicks
         {
             ProcessStartInfo procStartInfo = new ProcessStartInfo();
             Process procExecuting = new Process();
@@ -126,7 +127,7 @@ namespace MoodleSyncInterface
                     procExecuting = Process.Start(procStartInfo);
                     break;
                 case "Help":
-                    Process.Start(System.Web.HttpUtility.UrlPathEncode("file:///" + System.AppDomain.CurrentDomain.BaseDirectory + "help.html").Replace("\\","/"));
+                    Process.Start(System.Web.HttpUtility.UrlPathEncode("file:///" + System.AppDomain.CurrentDomain.BaseDirectory + "docs\\index.html").Replace("\\","/"));
                     break;
                 case "About":
                     AboutDialog About = new AboutDialog();
@@ -146,7 +147,8 @@ namespace MoodleSyncInterface
             }
 
         }
-        private void Update_Notifications(object sender, EventArgs e)                       /////////////////
+        //----------Incomplete--------//
+        private void Update_Notifications(object sender, EventArgs e)                       //Runs on new notification
         {
             //Fetch object and write notifications
             if ((New_Material == 0) && (New_Posts == 0))
@@ -171,11 +173,13 @@ namespace MoodleSyncInterface
             }
         }
 
-        private void LoadTrayIcon()
+        private void LoadTrayIcon()                                                         //Loads tray icon and context menu
         {
             this._tray = new System.Windows.Forms.NotifyIcon();
             this._tray_menu = new System.Windows.Forms.ContextMenuStrip();
             this._tray_menu.SuspendLayout();
+            //
+            // _tray_menu_items
             //
             _tray_notification = new System.Windows.Forms.ToolStripMenuItem();
             _tray_pause = new System.Windows.Forms.ToolStripMenuItem();
@@ -194,7 +198,7 @@ namespace MoodleSyncInterface
             // _tray
             // 
             this._tray.ContextMenuStrip = this._tray_menu;
-            this._tray.Icon = new System.Drawing.Icon(System.AppDomain.CurrentDomain.BaseDirectory + "interface.ico");
+            this._tray.Icon = new System.Drawing.Icon(System.AppDomain.CurrentDomain.BaseDirectory + "images/favicon.ico");
             this._tray.Text = "Moodle Sync";
             this._tray.Visible = true;
             this._tray.DoubleClick += new System.EventHandler(this.Tray_Icon_Click);
@@ -305,39 +309,7 @@ namespace MoodleSyncInterface
             this._tray_menu.ResumeLayout();
             this.UpdateLayout();
         }
-        public MainWindow()                                                                 /////////////////
-        {
-            InitializeComponent();
-            LoadTrayIcon();
-            this.Hide();
-
-            Dispatcher.ShutdownStarted += Dispatcher_ShutdownStarted;
-
-            string ConfigDir = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Moodle Sync";
-            if (!System.IO.Directory.Exists(ConfigDir))
-                System.IO.Directory.CreateDirectory(ConfigDir);
-            Environment.CurrentDirectory = ConfigDir;
-
-            if (!(File.Exists("DownloadDir") && File.Exists("Login") && File.Exists("CourseList")))
-            {
-                Setup = new SetupWindow();
-                Setup.ShowDialog();
-                if (Setup.Successful == false)
-                {
-                    this.Close();
-                }
-            }
-
-            //Load configuration                                                                          //////////////////
-            //Load notifications                                                                          /////////////////
-
-            Logger = new Translator.LoggingClass();
-            Logger.OnNotify += new Translator.LoggingClass.NotifyHandler(Update_Notifications);
-
-            Schedule_Sync = new System.Threading.Timer(Sync_Callback, 0, 0, 3 * 60 * 60 * 1000);
-        }
-
-        void Dispatcher_ShutdownStarted(object sender, EventArgs e)
+        private void UnloadTrayIcon(object sender, EventArgs e)                             //Unloads tray icon and context menu on exit
         {
             _tray.Visible = false;
 
@@ -357,6 +329,38 @@ namespace MoodleSyncInterface
 
             _tray_menu.Dispose();
             _tray.Dispose();
+        }
+
+        //----------Incomplete--------//
+        public MainWindow()                                                                 //Main initialisation block
+        {
+            InitializeComponent();
+            LoadTrayIcon();
+            this.Hide();
+
+            Dispatcher.ShutdownStarted += UnloadTrayIcon;
+
+            if (!System.IO.Directory.Exists(CONFIGDIR))
+                System.IO.Directory.CreateDirectory(CONFIGDIR);
+            Environment.CurrentDirectory = CONFIGDIR;
+
+            if (!(File.Exists("DownloadDir") && File.Exists("Login") && File.Exists("CourseList")))
+            {
+                Setup = new SetupWindow();
+                Setup.ShowDialog();
+                if (Setup.Successful == false)
+                {
+                    this.Close();
+                }
+            }
+
+            //Load configuration                                                                          //////////////////
+            //Load notifications                                                                          /////////////////
+
+            Logger = new Translator.LoggingClass();
+            Logger.OnNotify += new Translator.LoggingClass.NotifyHandler(Update_Notifications);
+
+            Schedule_Sync = new System.Threading.Timer(Sync_Callback, 0, 0, 3 * 60 * 60 * 1000);
         }
     }
 }

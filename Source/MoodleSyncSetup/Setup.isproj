@@ -28,10 +28,6 @@
 	</ItemGroup>
 	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2012SpringLimited\InstallShield.targets"/>
 	<ItemGroup>
-		<ProjectReference Include="..\MoodleSyncBrowser\MoodleSyncBrowser.csproj">
-			<Name>MoodleSyncBrowser</Name>
-			<Project>{7DDE07FD-CC4A-406F-86BE-4A6C24907741}</Project>
-		</ProjectReference>
 		<ProjectReference Include="..\MoodleSyncCallback\MoodleSyncCallback.csproj">
 			<Name>MoodleSyncCallback</Name>
 			<Project>{C76FD033-B402-45EA-92BC-AB2418D9EEF5}</Project>

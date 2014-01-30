@@ -1,0 +1,14 @@
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\release\MoodleSync.exe.config
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\release\MoodleSync.exe
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\MoodleSyncInterface.csprojResolveAssemblyReference.cache
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\MainWindow.baml
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\SetupWindow.baml
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\MainWindow.g.cs
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\SetupWindow.g.cs
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\App.g.cs
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\MoodleSync_MarkupCompile.cache
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\MoodleSync.g.resources
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\MoodleSyncInterface.AboutDialog.resources
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\MoodleSyncInterface.Properties.Resources.resources
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\MoodleSyncInterface.csproj.GenerateResource.Cache
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncInterface\obj\Release\MoodleSync.exe

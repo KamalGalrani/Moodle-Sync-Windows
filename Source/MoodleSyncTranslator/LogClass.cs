@@ -35,9 +35,10 @@ namespace Translator
         Download = 300,
         Configuration = 404
     }
-
+    
     public class LoggingClass
     {
+        readonly static string CONFIGDIR = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Moodle Sync\\";
         public delegate void NotifyHandler(object sender, EventArgs e);
         public event NotifyHandler OnNotify;
 
@@ -52,13 +53,13 @@ namespace Translator
 
         public LoggingClass()                                                                           //Constructor: Creates log file if absent
         {
-            if (!System.IO.File.Exists(System.AppDomain.CurrentDomain.BaseDirectory + "\\Callback.log"))
-                System.IO.File.WriteAllText(System.AppDomain.CurrentDomain.BaseDirectory + "\\Callback.log",
+            if (!System.IO.File.Exists(CONFIGDIR + "Callback.log"))
+                System.IO.File.WriteAllText(CONFIGDIR + "Callback.log",
                     DateTime.Now.ToString() + "::Miscellaneous::Information::Log file created" + Environment.NewLine);
         }
         public void WriteEntry(LogType type, string message, EventType id)                              //Writes log to file
         {
-            System.IO.File.AppendAllText(System.AppDomain.CurrentDomain.BaseDirectory + "\\Callback.log",
+            System.IO.File.AppendAllText(CONFIGDIR + "Callback.log",
              DateTime.Now.ToString() + "::" + id.ToString() + "::" + type.ToString() + "::" + message + Environment.NewLine);
         }
     }

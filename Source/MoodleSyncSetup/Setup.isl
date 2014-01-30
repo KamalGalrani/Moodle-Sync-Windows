@@ -341,23 +341,15 @@
 		<col def="S0">ISDotNetInstallerArgsCommit</col>
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
-		<row><td>ISX_DEFAULTCOMPONENT</td><td>{630A3BDA-3EC3-45AD-A337-702A99CE6A31}</td><td>SOURCE_AND_DEBUG_SYMBOLS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{702D7396-98AE-4D1C-B39E-E8C8DFEA655F}</td><td>MOODLESYNCBROWSER</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td>{B5C7658C-9242-4D26-B0CF-8EC89E5A0D93}</td><td>MOODLESYNCCALLBACK</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{645C7595-33DC-47EA-B459-5F9B3BF511AC}</td><td>MOODLESYNCTRANSLATOR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT</td><td>{BD29D86D-7C27-40C5-B96D-AF4F1805FE1E}</td><td>DOCS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td>{E1DA4218-06F5-49B2-8807-5E36C5B236AC}</td><td>IMAGES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{E238E2FE-596D-4C47-B197-049A4BB23D78}</td><td>ProgramFilesFolder</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{24ADEFBC-AE2B-4ED8-972F-221C774635FA}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{D7B1B658-4B71-44E1-AEE1-ED4322E1C50C}</td><td>MOODLE_SYNC1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MoodleSyncBrowser.Debug_Symbols</td><td>{B41FFDEA-1043-4760-B126-C6AD62AB8F25}</td><td>MOODLESYNCBROWSER</td><td>2</td><td/><td>moodlesyncbrowser.debug_symb</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MoodleSyncBrowser.Source_Files</td><td>{BA27BDF3-5F61-466C-BFF7-43EAFD0A8D7F}</td><td>MOODLESYNCBROWSER</td><td>2</td><td/><td>moodlesyncbrowser.source_fil</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MoodleSyncCallback.Debug_Symbols</td><td>{34115D4D-8498-4939-9A66-B7FFAC1E1F7A}</td><td>MOODLESYNCCALLBACK</td><td>2</td><td/><td>moodlesynccallback.debug_sym</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MoodleSyncCallback.Primary_output</td><td>{41ACA661-0F04-4BA0-9443-0BF28D7E3B98}</td><td>INSTALLDIR</td><td>2</td><td/><td>moodlesynccallback.primary_o</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MoodleSyncCallback.Source_Files</td><td>{29D6B588-E876-4174-832F-BE7D38CC5F16}</td><td>MOODLESYNCCALLBACK</td><td>2</td><td/><td>moodlesynccallback.source_fi</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MoodleSyncInterface.Primary_output</td><td>{84B4F7C0-D837-4B2A-9DFD-E9573CC9DCB8}</td><td>INSTALLDIR</td><td>2</td><td/><td>moodlesyncinterface.primary_</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MoodleSyncTranslator.Debug_Symbols</td><td>{AC3E554C-8641-49E3-8F51-902AEDB7953D}</td><td>MOODLESYNCTRANSLATOR</td><td>2</td><td/><td>moodlesynctranslator.debug_s</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MoodleSyncCallback.Primary_output</td><td>{7D813CD1-DD36-4D1C-A5AE-E72EB6449F9F}</td><td>INSTALLDIR</td><td>2</td><td/><td>moodlesynccallback.primary_o</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MoodleSyncInterface.Primary_output</td><td>{20B99A38-5F14-498E-BC53-0037BC3FB66D}</td><td>INSTALLDIR</td><td>2</td><td/><td>moodlesyncinterface.primary_</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>MoodleSyncTranslator.Primary_output</td><td>{D8564CB6-20AB-4FE6-A834-FF216D95C289}</td><td>INSTALLDIR</td><td>2</td><td/><td>moodlesynctranslator.primary</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MoodleSyncTranslator.Primary_output1</td><td>{6AC1718B-EF5E-4F02-BF47-5107258C0557}</td><td>INSTALLDIR</td><td>2</td><td/><td>moodlesynctranslator.primary</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MoodleSyncTranslator.Source_Files</td><td>{C337B302-988E-4F87-BDB4-CF73D376EE2A}</td><td>MOODLESYNCTRANSLATOR</td><td>2</td><td/><td>moodlesynctranslator.source_</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MoodleSyncTranslator.Primary_output1</td><td>{92001260-0F43-4F43-9523-9B2F70D94D5D}</td><td>INSTALLDIR</td><td>2</td><td/><td>moodlesynctranslator.primary</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
 	<table name="Condition">
@@ -568,7 +560,7 @@
 		<row><td>LicenseAgreement</td><td>DlgLine</td><td>Line</td><td>48</td><td>234</td><td>326</td><td>0</td><td>1</td><td/><td/><td/><td/><td>0</td><td/><td/><td/></row>
 		<row><td>LicenseAgreement</td><td>DlgTitle</td><td>Text</td><td>13</td><td>6</td><td>292</td><td>25</td><td>65539</td><td/><td>##IDS__IsLicenseDlg_LicenseAgreement##</td><td/><td/><td>0</td><td/><td/><td/></row>
 		<row><td>LicenseAgreement</td><td>ISPrintButton</td><td>PushButton</td><td>301</td><td>188</td><td>65</td><td>17</td><td>3</td><td/><td>##IDS_PRINT_BUTTON##</td><td>Agree</td><td/><td>0</td><td/><td/><td/></row>
-		<row><td>LicenseAgreement</td><td>Memo</td><td>ScrollableText</td><td>8</td><td>55</td><td>358</td><td>130</td><td>7</td><td/><td/><td/><td/><td>0</td><td/><td>D:\Cloud Services\Google Drive\Projects\Visual Studio\MoodleSync\License_GPL.rtf</td><td/></row>
+		<row><td>LicenseAgreement</td><td>Memo</td><td>ScrollableText</td><td>8</td><td>55</td><td>358</td><td>130</td><td>7</td><td/><td/><td/><td/><td>0</td><td/><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\LICENSE.rtf</td><td/></row>
 		<row><td>LicenseAgreement</td><td>Next</td><td>PushButton</td><td>230</td><td>243</td><td>66</td><td>17</td><td>3</td><td/><td>##IDS_NEXT##</td><td>Cancel</td><td/><td>0</td><td/><td/><td/></row>
 		<row><td>MaintenanceType</td><td>Back</td><td>PushButton</td><td>164</td><td>243</td><td>66</td><td>17</td><td>3</td><td/><td>##IDS_BACK##</td><td>Next</td><td/><td>0</td><td/><td/><td/></row>
 		<row><td>MaintenanceType</td><td>Banner</td><td>Bitmap</td><td>0</td><td>0</td><td>374</td><td>44</td><td>1</td><td/><td/><td/><td/><td>0</td><td/><td/><td>NewBinary1</td></row>
@@ -1067,12 +1059,7 @@
 	<table name="CreateFolder">
 		<col key="yes" def="s72">Directory_</col>
 		<col key="yes" def="s72">Component_</col>
-		<row><td>MOODLESYNCBROWSER</td><td>ISX_DEFAULTCOMPONENT1</td></row>
-		<row><td>MOODLESYNCCALLBACK</td><td>ISX_DEFAULTCOMPONENT2</td></row>
-		<row><td>MOODLESYNCTRANSLATOR</td><td>ISX_DEFAULTCOMPONENT3</td></row>
-		<row><td>MOODLE_SYNC1</td><td>ISX_DEFAULTCOMPONENT6</td></row>
 		<row><td>ProgramFilesFolder</td><td>ISX_DEFAULTCOMPONENT4</td></row>
-		<row><td>SOURCE_AND_DEBUG_SYMBOLS</td><td>ISX_DEFAULTCOMPONENT</td></row>
 	</table>
 
 	<table name="CustomAction">
@@ -1082,7 +1069,7 @@
 		<col def="S0">Target</col>
 		<col def="I4">ExtendedType</col>
 		<col def="S255">ISComments</col>
-		<row><td>ISPreventDowngrade</td><td>19</td><td/><td>[IS_PREVENT_DOWNGRADE_EXIT]</td><td/><td>Exits install when a newer version of this product is found</td></row>
+		<row><td>ISPreventDowngrade</td><td>19</td><td/><td>[IS_PREVENT_DOWNGRADE_EXIT]</td><td/><td/></row>
 		<row><td>ISPrint</td><td>1</td><td>SetAllUsers.dll</td><td>PrintScrollableText</td><td/><td>Prints the contents of a ScrollableText control on a dialog.</td></row>
 		<row><td>ISRunSetupTypeAddLocalEvent</td><td>1</td><td>ISExpHlp.dll</td><td>RunSetupTypeAddLocalEvent</td><td/><td>Run the AddLocal events associated with the Next button on the Setup Type dialog.</td></row>
 		<row><td>ISSelfRegisterCosting</td><td>1</td><td>ISSELFREG.DLL</td><td>ISSelfRegisterCosting</td><td/><td/></row>
@@ -1160,10 +1147,12 @@
 		<row><td>CommonAppDataFolder</td><td>TARGETDIR</td><td>.:Common~1|CommonAppData</td><td/><td>0</td><td/></row>
 		<row><td>CommonFilesFolder</td><td>TARGETDIR</td><td>.:Common</td><td/><td>0</td><td/></row>
 		<row><td>DATABASEDIR</td><td>ISYourDataBaseDir</td><td>.</td><td/><td>0</td><td/></row>
+		<row><td>DOCS</td><td>INSTALLDIR</td><td>docs</td><td/><td>0</td><td/></row>
 		<row><td>DesktopFolder</td><td>TARGETDIR</td><td>.:Desktop</td><td/><td>3</td><td/></row>
 		<row><td>FavoritesFolder</td><td>TARGETDIR</td><td>.:FAVORI~1|Favorites</td><td/><td>0</td><td/></row>
 		<row><td>FontsFolder</td><td>TARGETDIR</td><td>.:Fonts</td><td/><td>0</td><td/></row>
 		<row><td>GlobalAssemblyCache</td><td>TARGETDIR</td><td>.:Global~1|GlobalAssemblyCache</td><td/><td>0</td><td/></row>
+		<row><td>IMAGES</td><td>INSTALLDIR</td><td>images</td><td/><td>0</td><td/></row>
 		<row><td>INSTALLDIR</td><td>MOODLE_SYNC</td><td>.</td><td/><td>0</td><td/></row>
 		<row><td>ISCommonFilesFolder</td><td>CommonFilesFolder</td><td>Instal~1|InstallShield</td><td/><td>0</td><td/></row>
 		<row><td>ISMyCompanyDir</td><td>ProgramFilesFolder</td><td>MYCOMP~1|My Company Name</td><td/><td>0</td><td/></row>
@@ -1171,9 +1160,6 @@
 		<row><td>ISYourDataBaseDir</td><td>INSTALLDIR</td><td>Database</td><td/><td>0</td><td/></row>
 		<row><td>KAMAL_GALRANI</td><td>ProgramFilesFolder</td><td>KAMALG~1|Kamal Galrani</td><td/><td>0</td><td/></row>
 		<row><td>LocalAppDataFolder</td><td>TARGETDIR</td><td>.:LocalA~1|LocalAppData</td><td/><td>0</td><td/></row>
-		<row><td>MOODLESYNCBROWSER</td><td>SOURCE_AND_DEBUG_SYMBOLS</td><td>MOODLE~1|MoodleSyncBrowser</td><td/><td>0</td><td/></row>
-		<row><td>MOODLESYNCCALLBACK</td><td>SOURCE_AND_DEBUG_SYMBOLS</td><td>MOODLE~1|MoodleSyncCallback</td><td/><td>0</td><td/></row>
-		<row><td>MOODLESYNCTRANSLATOR</td><td>SOURCE_AND_DEBUG_SYMBOLS</td><td>MOODLE~1|MoodleSyncTranslator</td><td/><td>0</td><td/></row>
 		<row><td>MOODLE_SYNC</td><td>ProgramFilesFolder</td><td>MOODLE~1|Moodle Sync</td><td/><td>0</td><td/></row>
 		<row><td>MOODLE_SYNC1</td><td>AppDataFolder</td><td>MOODLE~1|Moodle Sync</td><td/><td>0</td><td/></row>
 		<row><td>MY_PRODUCT_NAME</td><td>KAMAL_GALRANI</td><td>MYPROD~1|My Product Name</td><td/><td>0</td><td/></row>
@@ -1185,7 +1171,6 @@
 		<row><td>ProgramFilesFolder</td><td>TARGETDIR</td><td>.:PROGRA~1|program files</td><td/><td>0</td><td/></row>
 		<row><td>ProgramMenuFolder</td><td>TARGETDIR</td><td>.:Programs</td><td/><td>3</td><td/></row>
 		<row><td>RecentFolder</td><td>TARGETDIR</td><td>.:Recent</td><td/><td>0</td><td/></row>
-		<row><td>SOURCE_AND_DEBUG_SYMBOLS</td><td>INSTALLDIR</td><td>SOURCE~1|Source and Debug Symbols</td><td/><td>0</td><td/></row>
 		<row><td>SendToFolder</td><td>TARGETDIR</td><td>.:SendTo</td><td/><td>3</td><td/></row>
 		<row><td>StartMenuFolder</td><td>TARGETDIR</td><td>.:STARTM~1|Start Menu</td><td/><td>3</td><td/></row>
 		<row><td>StartupFolder</td><td>TARGETDIR</td><td>.:StartUp</td><td/><td>3</td><td/></row>
@@ -1197,8 +1182,7 @@
 		<row><td>USERPROFILE</td><td>TARGETDIR</td><td>.:USERPR~1|UserProfile</td><td/><td>0</td><td/></row>
 		<row><td>WindowsFolder</td><td>TARGETDIR</td><td>.:Windows</td><td/><td>0</td><td/></row>
 		<row><td>WindowsVolume</td><td>TARGETDIR</td><td>.:WinRoot</td><td/><td>0</td><td/></row>
-		<row><td>kamalg_1_kamal_galrani</td><td>ProgramMenuFolder</td><td>KAMALG~1|Kamal Galrani</td><td/><td>1</td><td/></row>
-		<row><td>moodle_1_moodle_sync</td><td>kamalg_1_kamal_galrani</td><td>MOODLE~1|Moodle Sync</td><td/><td>1</td><td/></row>
+		<row><td>kamalg_1_kamal_galrani</td><td>ProgramMenuFolder</td><td>MOODLE~1|Moodle Sync</td><td/><td>1</td><td/></row>
 	</table>
 
 	<table name="DrLocator">
@@ -1869,6 +1853,7 @@
 		<col def="S255">ProgId_</col>
 		<col def="S64">MIME_</col>
 		<col def="s38">Feature_</col>
+		<row><td>Moodle</td><td>MoodleSyncInterface.Primary_output</td><td>moodle.File</td><td/><td>AlwaysInstall</td></row>
 	</table>
 
 	<table name="Feature">
@@ -1892,21 +1877,13 @@
 		<col key="yes" def="s72">Component_</col>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT1</td></row>
-		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT2</td></row>
-		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT3</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT4</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT5</td></row>
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT6</td></row>
-		<row><td>AlwaysInstall</td><td>MoodleSyncBrowser.Debug_Symbols</td></row>
-		<row><td>AlwaysInstall</td><td>MoodleSyncBrowser.Source_Files</td></row>
-		<row><td>AlwaysInstall</td><td>MoodleSyncCallback.Debug_Symbols</td></row>
 		<row><td>AlwaysInstall</td><td>MoodleSyncCallback.Primary_output</td></row>
-		<row><td>AlwaysInstall</td><td>MoodleSyncCallback.Source_Files</td></row>
 		<row><td>AlwaysInstall</td><td>MoodleSyncInterface.Primary_output</td></row>
-		<row><td>AlwaysInstall</td><td>MoodleSyncTranslator.Debug_Symbols</td></row>
 		<row><td>AlwaysInstall</td><td>MoodleSyncTranslator.Primary_output</td></row>
 		<row><td>AlwaysInstall</td><td>MoodleSyncTranslator.Primary_output1</td></row>
-		<row><td>AlwaysInstall</td><td>MoodleSyncTranslator.Source_Files</td></row>
 	</table>
 
 	<table name="File">
@@ -1921,15 +1898,20 @@
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I4">ISAttributes</col>
 		<col def="S72">ISComponentSubFolder_</col>
+		<row><td>error_bw.ico</td><td>ISX_DEFAULTCOMPONENT1</td><td>error_bw.ico</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\error_bw.ico</td><td>1</td><td/></row>
+		<row><td>error_col.ico</td><td>ISX_DEFAULTCOMPONENT1</td><td>ERROR_~1.ICO|error_col.ico</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\error_col.ico</td><td>1</td><td/></row>
+		<row><td>favicon.ico1</td><td>ISX_DEFAULTCOMPONENT1</td><td>favicon.ico</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\favicon.ico</td><td>1</td><td/></row>
+		<row><td>index.html</td><td>ISX_DEFAULTCOMPONENT</td><td>INDEX~1.HTM|index.html</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\docs\index.html</td><td>1</td><td/></row>
 		<row><td>license.rtf</td><td>ISX_DEFAULTCOMPONENT5</td><td>LICENSE.rtf</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\LICENSE.rtf</td><td>1</td><td/></row>
-		<row><td>moodlesyncbrowser.debug_symb</td><td>MoodleSyncBrowser.Debug_Symbols</td><td>MoodleSyncBrowser.Debug Symbols</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;MoodleSyncBrowser&gt;|Symbols</td><td>3</td><td/></row>
-		<row><td>moodlesyncbrowser.source_fil</td><td>MoodleSyncBrowser.Source_Files</td><td>MoodleSyncBrowser.Source Files</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;MoodleSyncBrowser&gt;|SourceFiles</td><td>3</td><td/></row>
-		<row><td>moodlesynccallback.debug_sym</td><td>MoodleSyncCallback.Debug_Symbols</td><td>MoodleSyncCallback.Debug Symbols</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;MoodleSyncCallback&gt;|Symbols</td><td>3</td><td/></row>
 		<row><td>moodlesynccallback.primary_o</td><td>MoodleSyncCallback.Primary_output</td><td>MoodleSyncCallback.Primary output</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;MoodleSyncCallback&gt;|Built</td><td>3</td><td/></row>
-		<row><td>moodlesynccallback.source_fi</td><td>MoodleSyncCallback.Source_Files</td><td>MoodleSyncCallback.Source Files</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;MoodleSyncCallback&gt;|SourceFiles</td><td>3</td><td/></row>
+		<row><td>moodlesynccallback.vbs</td><td>ISX_DEFAULTCOMPONENT6</td><td>MOODLE~1.VBS|MoodleSyncCallback.vbs</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback.vbs</td><td>1</td><td/></row>
 		<row><td>moodlesyncinterface.primary_</td><td>MoodleSyncInterface.Primary_output</td><td>MoodleSyncInterface.Primary output</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;MoodleSyncInterface&gt;|Built</td><td>3</td><td/></row>
 		<row><td>moodlesynctranslator.primary</td><td>MoodleSyncTranslator.Primary_output1</td><td>MoodleSyncTranslator.Primary output</td><td>0</td><td/><td/><td/><td>1</td><td>&lt;MoodleSyncTranslator1&gt;|Built</td><td>3</td><td/></row>
+		<row><td>notify_bw.ico</td><td>ISX_DEFAULTCOMPONENT1</td><td>NOTIFY~1.ICO|notify_bw.ico</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\notify_bw.ico</td><td>1</td><td/></row>
+		<row><td>notify_col.ico</td><td>ISX_DEFAULTCOMPONENT1</td><td>NOTIFY~1.ICO|notify_col.ico</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\notify_col.ico</td><td>1</td><td/></row>
 		<row><td>readme.md</td><td>ISX_DEFAULTCOMPONENT5</td><td>README.md</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\README.md</td><td>1</td><td/></row>
+		<row><td>synced.ico1</td><td>ISX_DEFAULTCOMPONENT1</td><td>synced.ico</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\synced.ico</td><td>1</td><td/></row>
+		<row><td>syncing.ico1</td><td>ISX_DEFAULTCOMPONENT1</td><td>syncing.ico</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\syncing.ico</td><td>1</td><td/></row>
 	</table>
 
 	<table name="FileSFPCatalog">
@@ -2191,23 +2173,15 @@
 		<col def="S0">FTPLocation</col>
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
-		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_CB2E6EC1_D48A_4CB1_95AD_2F8E0C5F9ED1_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_AD373261_449C_420C_A46D_8E33770D247D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT2</td><td/><td/><td>_1F6D1090_F86B_4D06_887C_48E8BBAA9A71_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_DF321D84_A5F9_41E4_9C3C_7C5FB702A740_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_99B8F659_4964_4F41_B3C7_18A75A7DC29C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT1</td><td/><td/><td>_C87EEB04_B1C0_41B2_A678_2BC013AF3520_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_F7BA8FCC_34B7_4CF2_A37A_21D4B0FACC13_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_CCD35123_4BCB_4B7D_BA59_F78E91C722F7_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_91047488_68BA_4365_8159_F9138EE4AB52_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MoodleSyncBrowser.Debug_Symbols</td><td/><td/><td>_8DAFDBFC_C82A_449D_881A_6C33902BB06B_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MoodleSyncBrowser.Source_Files</td><td/><td/><td>_926BB0B9_2D33_4603_9483_D191BC64F918_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MoodleSyncCallback.Debug_Symbols</td><td/><td/><td>_08363B74_D89B_4A18_AE21_B61F2D909194_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MoodleSyncCallback.Primary_output</td><td/><td/><td>_68D881AD_979D_4027_8982_EB467DA236B5_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MoodleSyncCallback.Source_Files</td><td/><td/><td>_E6E2A2CC_7EF1_4B19_914C_9B84E9BBB27D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MoodleSyncInterface.Primary_output</td><td/><td/><td>_32305D1A_2B3B_4BDC_ABF9_8435048660E1_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MoodleSyncTranslator.Debug_Symbols</td><td/><td/><td>_169C2DF4_F2B8_4ECF_8F53_082A04973AE0_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>MoodleSyncCallback.Primary_output</td><td/><td/><td>_8DCB9ACC_05AF_4CC9_8BCD_B32A8937ECA1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>MoodleSyncInterface.Primary_output</td><td/><td/><td>_649CA258_E7E8_4FA9_A3E0_68C3CE1AEA8D_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>MoodleSyncTranslator.Primary_output</td><td/><td/><td>_B5B2936D_1F50_41B0_B958_AFF9CF04E055_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MoodleSyncTranslator.Primary_output1</td><td/><td/><td>_E8E29D08_290F_460D_A78E_528B4F560EB5_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MoodleSyncTranslator.Source_Files</td><td/><td/><td>_F8AD098E_DEE3_4FF2_B59F_38DDC6255821_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>MoodleSyncTranslator.Primary_output1</td><td/><td/><td>_C2534EDC_C19F_4213_9533_4AB9BFC49BFE_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="ISCustomActionReference">
@@ -2596,9 +2570,9 @@
 		<row><td>Custom</td><td>Express</td><td>&lt;ISProjectDataFolder&gt;</td><td>Default</td><td>2</td><td>1033</td><td>0</td><td>2</td><td>Intel</td><td/><td>1033</td><td>0</td><td>100</td><td>0</td><td>1024</td><td/><td>0</td><td/><td>MediaLocation</td><td/><td>http://</td><td/><td/><td/><td/><td>75805</td><td/><td/><td/><td>3</td></row>
 		<row><td>DVD-10</td><td>Express</td><td>&lt;ISProjectDataFolder&gt;</td><td>Default</td><td>3</td><td>1033</td><td>0</td><td>2</td><td>Intel</td><td/><td>1033</td><td>0</td><td>8.75</td><td>1</td><td>2048</td><td/><td>0</td><td/><td>MediaLocation</td><td/><td>http://</td><td/><td/><td/><td/><td>75805</td><td/><td/><td/><td>3</td></row>
 		<row><td>DVD-18</td><td>Express</td><td>&lt;ISProjectDataFolder&gt;</td><td>Default</td><td>3</td><td>1033</td><td>0</td><td>2</td><td>Intel</td><td/><td>1033</td><td>0</td><td>15.83</td><td>1</td><td>2048</td><td/><td>0</td><td/><td>MediaLocation</td><td/><td>http://</td><td/><td/><td/><td/><td>75805</td><td/><td/><td/><td>3</td></row>
-		<row><td>DVD-5</td><td>Express</td><td>&lt;ISProjectDataFolder&gt;</td><td>Default</td><td>3</td><td>1033</td><td>0</td><td>2</td><td>Intel</td><td/><td>1033</td><td>0</td><td>4.38</td><td>1</td><td>2048</td><td/><td>0</td><td/><td>MediaLocation</td><td/><td>http://</td><td/><td/><td/><td/><td>75805</td><td/><td/><td/><td>3</td></row>
+		<row><td>DVD-5</td><td>Express</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug</td><td>Default</td><td>3</td><td>1033</td><td>0</td><td>2</td><td>Intel</td><td/><td>1033</td><td>0</td><td>4.38</td><td>1</td><td>2048</td><td/><td>0</td><td/><td>MediaLocation</td><td/><td>http://</td><td/><td/><td/><td/><td>75805</td><td/><td/><td/><td>3</td></row>
 		<row><td>DVD-9</td><td>Express</td><td>&lt;ISProjectDataFolder&gt;</td><td>Default</td><td>3</td><td>1033</td><td>0</td><td>2</td><td>Intel</td><td/><td>1033</td><td>0</td><td>7.95</td><td>1</td><td>2048</td><td/><td>0</td><td/><td>MediaLocation</td><td/><td>http://</td><td/><td/><td/><td/><td>75805</td><td/><td/><td/><td>3</td></row>
-		<row><td>SingleImage</td><td>Express</td><td>&lt;ISProjectDataFolder&gt;</td><td>PackageName</td><td>1</td><td>1033</td><td>0</td><td>1</td><td>Intel</td><td/><td>1033</td><td>0</td><td>0</td><td>0</td><td>0</td><td/><td>0</td><td/><td>MediaLocation</td><td/><td>http://</td><td/><td/><td/><td/><td>108573</td><td/><td/><td/><td>3</td></row>
+		<row><td>SingleImage</td><td>Express</td><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\release</td><td>PackageName</td><td>1</td><td>1033</td><td>0</td><td>1</td><td>Intel</td><td/><td>1033</td><td>0</td><td>0</td><td>0</td><td>0</td><td/><td>0</td><td/><td>MediaLocation</td><td/><td>http://</td><td/><td/><td/><td/><td>108573</td><td/><td/><td/><td>3</td></row>
 		<row><td>WebDeployment</td><td>Express</td><td>&lt;ISProjectDataFolder&gt;</td><td>PackageName</td><td>4</td><td>1033</td><td>2</td><td>1</td><td>Intel</td><td/><td>1033</td><td>0</td><td>0</td><td>0</td><td>0</td><td/><td>0</td><td/><td>MediaLocation</td><td/><td>http://</td><td/><td/><td/><td/><td>124941</td><td/><td/><td/><td>3</td></row>
 	</table>
 
@@ -2644,7 +2618,7 @@
 		<row><td>Custom</td><td>Express</td><td>0</td><td>http://</td><td>0</td><td>install</td><td>install</td><td>[LocalAppDataFolder]Downloaded Installations</td><td>0</td><td>http://www.installengine.com/Msiengine20</td><td>http://www.installengine.com/Msiengine20</td><td>0</td><td>http://www.installengine.com/cert05/isengine</td><td>0</td><td/><td/><td/><td>3</td><td>http://www.installengine.com/cert05/dotnetfx</td><td>0</td><td>1033</td><td/><td/><td/><td/><td/><td>3</td><td/><td>http://www.installengine.com/Msiengine30</td><td/></row>
 		<row><td>DVD-10</td><td>Express</td><td>0</td><td>http://</td><td>0</td><td>install</td><td>install</td><td>[LocalAppDataFolder]Downloaded Installations</td><td>0</td><td>http://www.installengine.com/Msiengine20</td><td>http://www.installengine.com/Msiengine20</td><td>0</td><td>http://www.installengine.com/cert05/isengine</td><td>0</td><td/><td/><td/><td>3</td><td>http://www.installengine.com/cert05/dotnetfx</td><td>0</td><td>1033</td><td/><td/><td/><td/><td/><td>3</td><td/><td>http://www.installengine.com/Msiengine30</td><td/></row>
 		<row><td>DVD-18</td><td>Express</td><td>0</td><td>http://</td><td>0</td><td>install</td><td>install</td><td>[LocalAppDataFolder]Downloaded Installations</td><td>0</td><td>http://www.installengine.com/Msiengine20</td><td>http://www.installengine.com/Msiengine20</td><td>0</td><td>http://www.installengine.com/cert05/isengine</td><td>0</td><td/><td/><td/><td>3</td><td>http://www.installengine.com/cert05/dotnetfx</td><td>0</td><td>1033</td><td/><td/><td/><td/><td/><td>3</td><td/><td>http://www.installengine.com/Msiengine30</td><td/></row>
-		<row><td>DVD-5</td><td>Express</td><td>0</td><td>http://</td><td>0</td><td>install</td><td>install</td><td>[LocalAppDataFolder]Downloaded Installations</td><td>0</td><td>http://www.installengine.com/Msiengine20</td><td>http://www.installengine.com/Msiengine20</td><td>0</td><td>http://www.installengine.com/cert05/isengine</td><td>0</td><td/><td/><td/><td>3</td><td>http://www.installengine.com/cert05/dotnetfx</td><td>0</td><td>1033</td><td/><td/><td/><td/><td/><td>3</td><td/><td>http://www.installengine.com/Msiengine30</td><td/></row>
+		<row><td>DVD-5</td><td>Express</td><td>0</td><td>http://</td><td>0</td><td>install</td><td>install</td><td>[LocalAppDataFolder]Downloaded Installations</td><td>1</td><td>http://www.installengine.com/Msiengine20</td><td>http://www.installengine.com/Msiengine20</td><td>0</td><td>http://www.installengine.com/cert05/isengine</td><td>0</td><td/><td/><td/><td>3</td><td>http://www.installengine.com/cert05/dotnetfx</td><td>0</td><td>1033</td><td/><td/><td/><td/><td/><td>3</td><td/><td>http://www.installengine.com/Msiengine30</td><td/></row>
 		<row><td>DVD-9</td><td>Express</td><td>0</td><td>http://</td><td>0</td><td>install</td><td>install</td><td>[LocalAppDataFolder]Downloaded Installations</td><td>0</td><td>http://www.installengine.com/Msiengine20</td><td>http://www.installengine.com/Msiengine20</td><td>0</td><td>http://www.installengine.com/cert05/isengine</td><td>0</td><td/><td/><td/><td>3</td><td>http://www.installengine.com/cert05/dotnetfx</td><td>0</td><td>1033</td><td/><td/><td/><td/><td/><td>3</td><td/><td>http://www.installengine.com/Msiengine30</td><td/></row>
 		<row><td>SingleImage</td><td>Express</td><td>0</td><td>http://</td><td>0</td><td>install</td><td>install</td><td>[LocalAppDataFolder]Downloaded Installations</td><td>1</td><td>http://www.installengine.com/Msiengine20</td><td>http://www.installengine.com/Msiengine20</td><td>0</td><td>http://www.installengine.com/cert05/isengine</td><td>0</td><td/><td/><td/><td>3</td><td>http://www.installengine.com/cert05/dotnetfx</td><td>0</td><td>1033</td><td/><td/><td/><td/><td/><td>3</td><td/><td>http://www.installengine.com/Msiengine30</td><td/></row>
 		<row><td>WebDeployment</td><td>Express</td><td>0</td><td>http://</td><td>0</td><td>setup</td><td>Default</td><td>[LocalAppDataFolder]Downloaded Installations</td><td>2</td><td>http://www.Installengine.com/Msiengine20</td><td>http://www.Installengine.com/Msiengine20</td><td>0</td><td>http://www.installengine.com/cert05/isengine</td><td>2</td><td/><td/><td/><td>3</td><td>http://www.installengine.com/cert05/dotnetfx</td><td>0</td><td>1033</td><td/><td/><td/><td/><td/><td>3</td><td/><td>http://www.installengine.com/Msiengine30</td><td/></row>
@@ -2808,7 +2782,6 @@
 		<col def="I2">Order</col>
 		<col def="I2">ISSetupLocation</col>
 		<col def="S255">ISReleaseFlags</col>
-		<row><td>_FFA7D0DB_9BB3_4738_9853_B1E3166FC00C_</td><td>Microsoft .NET Framework 4.5 Full.prq</td><td>0</td><td/><td/></row>
 	</table>
 
 	<table name="ISSetupType">
@@ -3658,6 +3631,7 @@
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME2</td><td>1033</td><td>Moodle Sync Setup</td><td>0</td><td/><td>2023915255</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME3</td><td>1033</td><td>Moodle Sync</td><td>0</td><td/><td>-2136848320</td></row>
 		<row><td>IDS_SHORTCUT_DISPLAY_NAME4</td><td>1033</td><td>Moodle Sync Log</td><td>0</td><td/><td>-2136854464</td></row>
+		<row><td>IDS_SHORTCUT_DISPLAY_NAME5</td><td>1033</td><td>Moodle Sync</td><td>0</td><td/><td>-257805449</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO</td><td>1033</td><td>From the list of servers below, select the database server you would like to target.</td><td>0</td><td/><td>2023937762</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_DB</td><td>1033</td><td>From the list of catalog names below, select the database catalog you would like to target.</td><td>0</td><td/><td>2023937762</td></row>
 		<row><td>IDS_SQLBROWSE_INTRO_TEMPLATE</td><td>1033</td><td>[IS_SQLBROWSE_INTRO]</td><td>0</td><td/><td>2023937762</td></row>
@@ -3951,7 +3925,17 @@
 		<row><td>ID_STRING11</td><td>1033</td><td>SectionName1</td><td>0</td><td/><td>-1868413579</td></row>
 		<row><td>ID_STRING12</td><td>1033</td><td>NewIniKeyword1</td><td>0</td><td/><td>-1868407435</td></row>
 		<row><td>ID_STRING13</td><td>1033</td><td>=-NewEnvironment1</td><td>0</td><td/><td>-1868384875</td></row>
+		<row><td>ID_STRING14</td><td>1033</td><td>https://github.com/KamalGalrani/Moodle-Sync-Windows/wiki</td><td>0</td><td/><td>-257770985</td></row>
+		<row><td>ID_STRING15</td><td>1033</td><td>http://kamalgalrani.github.io/Moodle-Sync-Windows</td><td>0</td><td/><td>-257811913</td></row>
+		<row><td>ID_STRING16</td><td>1033</td><td>Moodle Sync</td><td>0</td><td/><td>-257762441</td></row>
+		<row><td>ID_STRING17</td><td>1033</td><td>config.ini</td><td>0</td><td/><td>-257762313</td></row>
+		<row><td>ID_STRING18</td><td>1033</td><td>configuration</td><td>0</td><td/><td>-257788905</td></row>
+		<row><td>ID_STRING19</td><td>1033</td><td>installdir</td><td>0</td><td/><td>-257760233</td></row>
 		<row><td>ID_STRING2</td><td>1033</td><td>Kamal Galrani</td><td>0</td><td/><td>2023895351</td></row>
+		<row><td>ID_STRING20</td><td>1033</td><td>firstrun</td><td>0</td><td/><td>-257760201</td></row>
+		<row><td>ID_STRING22</td><td>1033</td><td>downloaddir</td><td>0</td><td/><td>-257801097</td></row>
+		<row><td>ID_STRING23</td><td>1033</td><td>username</td><td>0</td><td/><td>-257788809</td></row>
+		<row><td>ID_STRING24</td><td>1033</td><td>password</td><td>0</td><td/><td>-257778569</td></row>
 		<row><td>ID_STRING3</td><td>1033</td><td>Moodle Sync</td><td>0</td><td/><td>2023893027</td></row>
 		<row><td>ID_STRING4</td><td>1033</td><td>Moodle Sync</td><td>0</td><td/><td>2023908498</td></row>
 		<row><td>ID_STRING5</td><td>1033</td><td>Moodle Sync</td><td>0</td><td/><td>2023931026</td></row>
@@ -3960,6 +3944,7 @@
 		<row><td>ID_STRING8</td><td>1033</td><td>MOODLE~1|Moodle Sync Log</td><td>0</td><td/><td>2023913751</td></row>
 		<row><td>ID_STRING9</td><td>1033</td><td>MOODLE~1|Moodle Sync</td><td>0</td><td/><td>2023896918</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>2023937762</td></row>
+		<row><td>NEW_STRING1</td><td>1033</td><td>Moodle</td><td>0</td><td/><td>-257768297</td></row>
 	</table>
 
 	<table name="ISSwidtagProperty">
@@ -4066,9 +4051,11 @@
 		<col def="V0">Data</col>
 		<col def="S255">ISBuildSourcePath</col>
 		<col def="I2">ISIconIndex</col>
-		<row><td>ARPPRODUCTICON.exe</td><td/><td>&lt;ISProductFolder&gt;\redist\Language Independent\OS Independent\setupicon.ico</td><td>0</td></row>
+		<row><td>ARPPRODUCTICON.exe</td><td/><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\favicon.ico</td><td>0</td></row>
 		<row><td>Callback.log_2DC85FB3AEB2443FBC1693AEF1F49803.exe</td><td/><td>&lt;WindowsFolder&gt;\write.exe</td><td>0</td></row>
-		<row><td>Callback.vbs_A064CE90CF6B48BFAE1A36FE2E1939D6.exe</td><td/><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncBrowser\moodlecallback.ico</td><td>0</td></row>
+		<row><td>_57643A83_A3A7_42B3_848B_53FFF1581D76</td><td/><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\favicon.ico</td><td>0</td></row>
+		<row><td>_Built1_04FF5F8DF8E348A0841F7274F9840189.exe</td><td/><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\favicon.ico</td><td>0</td></row>
+		<row><td>_Built_938BF4DD7B3145DEB826F67F7EF0996D.exe</td><td/><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\images\favicon.ico</td><td>0</td></row>
 		<row><td>_Built_D7E5A5757CDF4E62837535A1195A8128.exe</td><td/><td>C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncBrowser\moodlesync.ico</td><td>0</td></row>
 	</table>
 
@@ -4081,7 +4068,8 @@
 		<col def="s255">Value</col>
 		<col def="i2">Action</col>
 		<col def="s72">Component_</col>
-		<row><td>IniTableKey1</td><td>##ID_STRING10##</td><td>INSTALLDIR</td><td> </td><td> </td><td> </td><td>0</td><td>ISX_DEFAULTCOMPONENT</td></row>
+		<row><td>IniTableKey1</td><td>##ID_STRING17##</td><td>MOODLE_SYNC1</td><td>##ID_STRING18##</td><td>##ID_STRING19##</td><td>[INSTALLDIR]</td><td>0</td><td>ISX_DEFAULTCOMPONENT4</td></row>
+		<row><td>IniTableKey2</td><td>##ID_STRING17##</td><td>MOODLE_SYNC1</td><td>##ID_STRING18##</td><td>##ID_STRING20##</td><td>1</td><td>1</td><td>ISX_DEFAULTCOMPONENT4</td></row>
 	</table>
 
 	<table name="IniLocator">
@@ -4111,7 +4099,7 @@
 		<row><td>DuplicateFiles</td><td/><td>4210</td><td>DuplicateFiles</td><td/></row>
 		<row><td>FileCost</td><td/><td>900</td><td>FileCost</td><td/></row>
 		<row><td>FindRelatedProducts</td><td>NOT ISSETUPDRIVEN</td><td>420</td><td>FindRelatedProducts</td><td/></row>
-		<row><td>ISPreventDowngrade</td><td>ISFOUNDNEWERPRODUCTVERSION</td><td>450</td><td>ISPreventDowngrade</td><td/></row>
+		<row><td>ISPreventDowngrade</td><td>ISFOUNDNEWERPRODUCTVERSION</td><td>450</td><td/><td/></row>
 		<row><td>ISRunSetupTypeAddLocalEvent</td><td>Not Installed And Not ISRUNSETUPTYPEADDLOCALEVENT</td><td>1050</td><td>ISRunSetupTypeAddLocalEvent</td><td/></row>
 		<row><td>ISSelfRegisterCosting</td><td/><td>2201</td><td/><td/></row>
 		<row><td>ISSelfRegisterFiles</td><td/><td>5601</td><td/><td/></row>
@@ -4187,8 +4175,8 @@
 		<col def="S0">Value</col>
 		<row><td>ActiveLanguage</td><td>1033</td></row>
 		<row><td>Comments</td><td/></row>
-		<row><td>CurrentMedia</td><td dt:dt="bin.base64" md5="6d78a46bf2c52ee27034bbcad20f7f95">
-QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
+		<row><td>CurrentMedia</td><td dt:dt="bin.base64" md5="a4f66fafb30885f14d732b73e196bba0">
+RABWAEQALQA1AAEARQB4AHAAcgBlAHMAcwA=
 			</td></row>
 		<row><td>DefaultProductConfiguration</td><td>Express</td></row>
 		<row><td>EnableSwidtag</td><td>0</td></row>
@@ -4205,7 +4193,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<row><td>ISTheme</td><td>InstallShield Blue.theme</td></row>
 		<row><td>ISUSLock</td><td>{5F49480F-5F2B-4EEE-8A2D-9D7C89C22708}</td></row>
 		<row><td>ISUSSignature</td><td>{D7536C36-4112-4DA5-B989-F1876E52D9BF}</td></row>
-		<row><td>ISVisitedViews</td><td>viewAssistant,viewObjects,viewFeatureFiles,viewShortcuts,viewProject,viewUpgradePaths,viewUpdateService,viewISToday,viewAppFiles,viewRegistry,viewIniFiles,viewUI,viewTextMessages,viewSystemSearch,viewRelease,viewComponentServices,viewXMLConfig,viewEnvironmentVariables,viewFileExtensions</td></row>
+		<row><td>ISVisitedViews</td><td>viewAssistant,viewObjects,viewFeatureFiles,viewShortcuts,viewProject,viewUpgradePaths,viewUpdateService,viewISToday,viewAppFiles,viewRegistry,viewIniFiles,viewUI,viewTextMessages,viewSystemSearch,viewRelease,viewComponentServices,viewXMLConfig,viewEnvironmentVariables,viewFileExtensions,viewSupportFiles,viewRealSetupDesign,viewVRoots</td></row>
 		<row><td>Limited</td><td>1</td></row>
 		<row><td>LockPermissionMode</td><td>1</td></row>
 		<row><td>MsiExecCmdLineOptions</td><td/></row>
@@ -4234,7 +4222,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<row><td>ExecuteAction</td><td/><td>1300</td><td>ExecuteAction</td><td/></row>
 		<row><td>FileCost</td><td/><td>900</td><td>FileCost</td><td/></row>
 		<row><td>FindRelatedProducts</td><td/><td>430</td><td>FindRelatedProducts</td><td/></row>
-		<row><td>ISPreventDowngrade</td><td>ISFOUNDNEWERPRODUCTVERSION</td><td>450</td><td>ISPreventDowngrade</td><td/></row>
+		<row><td>ISPreventDowngrade</td><td>ISFOUNDNEWERPRODUCTVERSION</td><td>450</td><td/><td/></row>
 		<row><td>ISSetAllUsers</td><td>Not Installed</td><td>10</td><td/><td/></row>
 		<row><td>InstallWelcome</td><td>Not Installed</td><td>1210</td><td>InstallWelcome</td><td/></row>
 		<row><td>IsolateComponents</td><td/><td>950</td><td>IsolateComponents</td><td/></row>
@@ -4507,6 +4495,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<col def="S72">Icon_</col>
 		<col def="I2">IconIndex</col>
 		<col def="I4">ISAttributes</col>
+		<row><td>moodle.File</td><td/><td/><td>Moodle Sync resource file</td><td>_57643A83_A3A7_42B3_848B_53FFF1581D76</td><td>0</td><td/></row>
 	</table>
 
 	<table name="Property">
@@ -4515,11 +4504,13 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<col def="S255">ISComments</col>
 		<row><td>ALLUSERS</td><td>1</td><td/></row>
 		<row><td>ARPCONTACT</td><td>##ID_STRING6##</td><td/></row>
+		<row><td>ARPHELPLINK</td><td>##ID_STRING14##</td><td/></row>
 		<row><td>ARPINSTALLLOCATION</td><td/><td/></row>
 		<row><td>ARPPRODUCTICON</td><td>ARPPRODUCTICON.exe</td><td/></row>
 		<row><td>ARPREADME</td><td>[INSTALLDIR]Readme.txt</td><td/></row>
 		<row><td>ARPSIZE</td><td/><td/></row>
 		<row><td>ARPURLINFOABOUT</td><td>##ID_STRING1##</td><td/></row>
+		<row><td>ARPURLUPDATEINFO</td><td>##ID_STRING15##</td><td/></row>
 		<row><td>AgreeToLicense</td><td>No</td><td/></row>
 		<row><td>ApplicationUsers</td><td>AllUsers</td><td/></row>
 		<row><td>DWUSINTERVAL</td><td>30</td><td/></row>
@@ -4556,8 +4547,8 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<row><td>IS_SQLSERVER_USERNAME</td><td>sa</td><td/></row>
 		<row><td>InstallChoice</td><td>AR</td><td/></row>
 		<row><td>LAUNCHPROGRAM</td><td>1</td><td/></row>
-		<row><td>LAUNCHPROGRAMCOMPCODE</td><td>{A0BF0551-12F0-4192-845A-91F9750FD273}</td><td/></row>
-		<row><td>LAUNCHPROGRAMFILEKEY</td><td>moodlesyncbrowser.primary_ou</td><td/></row>
+		<row><td>LAUNCHPROGRAMCOMPCODE</td><td>{20B99A38-5F14-498E-BC53-0037BC3FB66D}</td><td/></row>
+		<row><td>LAUNCHPROGRAMFILEKEY</td><td>moodlesyncinterface.primary_</td><td/></row>
 		<row><td>LAUNCHREADME</td><td>1</td><td/></row>
 		<row><td>MSIFASTINSTALL</td><td>1</td><td/></row>
 		<row><td>Manufacturer</td><td>##COMPANY_NAME##</td><td/></row>
@@ -4586,10 +4577,10 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<row><td>PROGMSG_IIS_ROLLBACKAPPPOOLS</td><td>##IDS_PROGMSG_IIS_ROLLBACKAPPPOOLS##</td><td/></row>
 		<row><td>PROGMSG_IIS_ROLLBACKVROOTS</td><td>##IDS_PROGMSG_IIS_ROLLBACKVROOTS##</td><td/></row>
 		<row><td>PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS</td><td>##IDS_PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS##</td><td/></row>
-		<row><td>PROGRAMFILETOLAUNCHATEND</td><td>[INSTALLDIR]MoodleSyncBrowser.Primary output</td><td/></row>
-		<row><td>ProductCode</td><td>{A39B98C7-5CA3-4F7B-BBB8-204344A2CD78}</td><td/></row>
+		<row><td>PROGRAMFILETOLAUNCHATEND</td><td>[INSTALLDIR]MoodleSyncInterface.Primary output</td><td/></row>
+		<row><td>ProductCode</td><td>{9CC47A40-C1D2-43FC-B2A4-E30CF3E45CD4}</td><td/></row>
 		<row><td>ProductName</td><td>Moodle Sync</td><td/></row>
-		<row><td>ProductVersion</td><td>1.00.0000</td><td/></row>
+		<row><td>ProductVersion</td><td>2.00.0000</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
 		<row><td>ProgressType2</td><td>installed</td><td/></row>
@@ -4602,7 +4593,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<row><td>SERIALNUMBER</td><td/><td/></row>
 		<row><td>SERIALNUMVALSUCCESSRETVAL</td><td>1</td><td/></row>
 		<row><td>SHOWLAUNCHPROGRAM</td><td>-1</td><td/></row>
-		<row><td>SecureCustomProperties</td><td>ISFOUNDNEWERPRODUCTVERSION;USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR;DOTNETVERSION45FULL</td><td/></row>
+		<row><td>SecureCustomProperties</td><td>USERNAME;COMPANYNAME;ISX_SERIALNUM;SUPPORTDIR;DOTNETVERSION45FULL;ISACTIONPROP2</td><td/></row>
 		<row><td>SelectedSetupType</td><td>##IDS__DisplayName_Typical##</td><td/></row>
 		<row><td>SetupType</td><td>Typical</td><td/></row>
 		<row><td>UpgradeCode</td><td>{C242F122-3305-4C93-9212-120B0FD91B6D}</td><td/></row>
@@ -4667,7 +4658,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<col def="s72">DirProperty</col>
 		<col def="i2">InstallMode</col>
 		<row><td>Callback.log</td><td>ISX_DEFAULTCOMPONENT5</td><td/><td>moodle_1_moodle_sync</td><td>2</td></row>
-		<row><td>Callback.vbs</td><td>ISX_DEFAULTCOMPONENT5</td><td/><td>moodle_1_moodle_sync</td><td>2</td></row>
+		<row><td>_Built</td><td>MoodleSyncInterface.Primary_output</td><td/><td>kamalg_1_kamal_galrani</td><td>2</td></row>
 	</table>
 
 	<table name="RemoveIniFile">
@@ -4753,7 +4744,8 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<col def="S255">ISComments</col>
 		<col def="S255">ISShortcutName</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>Callback.vbs</td><td>moodle_1_moodle_sync</td><td>##IDS_SHORTCUT_DISPLAY_NAME3##</td><td>ISX_DEFAULTCOMPONENT5</td><td>AlwaysInstall</td><td/><td/><td/><td>Callback.vbs_A064CE90CF6B48BFAE1A36FE2E1939D6.exe</td><td>0</td><td>7</td><td>INSTALLDIR</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>_Built</td><td>kamalg_1_kamal_galrani</td><td>##IDS_SHORTCUT_DISPLAY_NAME5##</td><td>MoodleSyncInterface.Primary_output</td><td>AlwaysInstall</td><td/><td/><td/><td>_Built_938BF4DD7B3145DEB826F67F7EF0996D.exe</td><td>0</td><td>1</td><td>MOODLE_SYNC1</td><td/><td/><td/><td/><td/><td/><td/></row>
+		<row><td>_Built1</td><td>DesktopFolder</td><td>##IDS_SHORTCUT_DISPLAY_NAME5##</td><td>MoodleSyncInterface.Primary_output</td><td>AlwaysInstall</td><td/><td/><td/><td>_Built1_04FF5F8DF8E348A0841F7274F9840189.exe</td><td>0</td><td>1</td><td>MOODLE_SYNC1</td><td/><td/><td/><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="Signature">
@@ -4875,7 +4867,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<col def="S255">Remove</col>
 		<col def="s72">ActionProperty</col>
 		<col def="S72">ISDisplayName</col>
-		<row><td>{00000000-0000-0000-0000-000000000000}</td><td>***ALL_VERSIONS***</td><td></td><td></td><td>2</td><td/><td>ISFOUNDNEWERPRODUCTVERSION</td><td>ISPreventDowngrade</td></row>
+		<row><td>{C242F122-3305-4C93-9212-120B0FD91B6D}</td><td>1.00.0000</td><td>2.00.0000</td><td>1033</td><td>772</td><td/><td>ISACTIONPROP2</td><td>v1</td></row>
 	</table>
 
 	<table name="Verb">
@@ -4884,6 +4876,7 @@ QwBEAF8AUgBPAE0AAQBFAHgAcAByAGUAcwBzAA==
 		<col def="I2">Sequence</col>
 		<col def="L255">Command</col>
 		<col def="L255">Argument</col>
+		<row><td>Moodle</td><td>open</td><td/><td/><td>%1</td></row>
 	</table>
 
 	<table name="_Validation">

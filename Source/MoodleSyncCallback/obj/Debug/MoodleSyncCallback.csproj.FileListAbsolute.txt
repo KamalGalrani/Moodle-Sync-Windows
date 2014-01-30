@@ -28,3 +28,12 @@ C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncCallback\bin\Debug\MoodleSyn
 C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe.config
 C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.exe
 C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback\bin\Debug\MoodleSyncCallback.exe.config
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.exe
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\MoodleSyncCallback.exe.config
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\MoodleSyncCallback.exe
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\MoodleSyncCallback.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.csprojResolveAssemblyReference.cache
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.Properties.Resources.resources
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback\obj\Debug\MoodleSyncCallback.csproj.GenerateResource.Cache

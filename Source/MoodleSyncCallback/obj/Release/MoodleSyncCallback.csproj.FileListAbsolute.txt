@@ -1,0 +1,6 @@
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\release\MoodleSyncCallback.exe.config
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\release\MoodleSyncCallback.exe
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback\obj\Release\MoodleSyncCallback.csprojResolveAssemblyReference.cache
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback\obj\Release\MoodleSyncCallback.Properties.Resources.resources
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback\obj\Release\MoodleSyncCallback.csproj.GenerateResource.Cache
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncCallback\obj\Release\MoodleSyncCallback.exe

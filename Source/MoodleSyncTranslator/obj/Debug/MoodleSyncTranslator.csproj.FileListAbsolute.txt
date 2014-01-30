@@ -3,3 +3,10 @@ C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncTranslator\bin\Debug\MoodleS
 C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncTranslator\obj\Debug\MoodleSyncTranslator.dll
 C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncTranslator\obj\Debug\MoodleSyncTranslator.pdb
 C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSyncTranslator\obj\Debug\MoodleSyncTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncTranslator\bin\Debug\MoodleSyncTranslator.dll
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncTranslator\bin\Debug\MoodleSyncTranslator.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncTranslator\obj\Debug\MoodleSyncTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncTranslator\obj\Debug\MoodleSyncTranslator.dll
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncTranslator\obj\Debug\MoodleSyncTranslator.pdb
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\MoodleSyncTranslator.dll
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\debug\MoodleSyncTranslator.pdb

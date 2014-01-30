@@ -1,0 +1,2 @@
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\release\MoodleSyncTranslator.dll
+C:\Users\Kamal Galrani\Desktop\MoodleSync\MoodleSync_App\Source\MoodleSyncTranslator\obj\Release\MoodleSyncTranslator.dll
